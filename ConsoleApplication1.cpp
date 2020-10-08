@@ -1,6 +1,6 @@
 ﻿// ConsoleApplication1.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
-
+//тест, здесь был Саня
 #include <iostream>
 #include <iomanip>
 #include <ctime>
